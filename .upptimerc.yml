@@ -9,8 +9,7 @@ sites:
     url: http://explorer.stakr.space
   - name: Testnet Explorer
     url: http://testnet.explorer.stakr.space
-  - name: Test Broken Site
-    url: https://networks.stakr.space
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
