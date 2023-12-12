@@ -4,18 +4,20 @@
     "url": "https://stakr.space",
     "icon": "https://icons.duckduckgo.com/ip3/stakr.space.ico",
     "slug": "stakr-space-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2566,
-    "timeDay": 1886,
+    "timeDay": 0,
     "timeWeek": 2566,
     "timeMonth": 2566,
     "timeYear": 2566,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-12": 0
+    }
   },
   {
     "name": "Mainnet Explorer",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 554,
-    "timeDay": 707,
-    "timeWeek": 554,
-    "timeMonth": 554,
-    "timeYear": 554,
+    "time": 553,
+    "timeDay": 539,
+    "timeWeek": 553,
+    "timeMonth": 553,
+    "timeYear": 553,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1341,
-    "timeDay": 437,
-    "timeWeek": 1341,
-    "timeMonth": 1341,
-    "timeYear": 1341,
+    "time": 1640,
+    "timeDay": 5536,
+    "timeWeek": 1640,
+    "timeMonth": 1640,
+    "timeYear": 1640,
     "dailyMinutesDown": {}
   }
 ]
