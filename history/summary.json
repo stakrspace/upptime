@@ -24,25 +24,27 @@
     "url": "http://explorer.stakr.space",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.stakr.space.ico",
     "slug": "mainnet-explorer",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 579,
     "timeDay": 943,
     "timeWeek": 583,
     "timeMonth": 579,
     "timeYear": 579,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 1
+    }
   },
   {
     "name": "Testnet Explorer",
     "url": "http://testnet.explorer.stakr.space",
     "icon": "https://icons.duckduckgo.com/ip3/testnet.explorer.stakr.space.ico",
     "slug": "testnet-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +55,8 @@
     "timeWeek": 1760,
     "timeMonth": 1577,
     "timeYear": 1577,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   }
 ]
