@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stakr.space.ico",
     "slug": "stakr-space-site",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 2513,
-    "timeDay": 3256,
-    "timeWeek": 2943,
-    "timeMonth": 2513,
-    "timeYear": 2513,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 2489,
+    "timeDay": 1799,
+    "timeWeek": 2751,
+    "timeMonth": 2489,
+    "timeYear": 2489,
     "dailyMinutesDown": {
       "2023-12-12": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 598,
-    "timeDay": 333,
-    "timeWeek": 523,
-    "timeMonth": 598,
-    "timeYear": 598,
+    "time": 590,
+    "timeDay": 344,
+    "timeWeek": 504,
+    "timeMonth": 590,
+    "timeYear": 590,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1178,
-    "timeDay": 341,
-    "timeWeek": 815,
-    "timeMonth": 1178,
-    "timeYear": 1178,
+    "time": 1153,
+    "timeDay": 450,
+    "timeWeek": 766,
+    "timeMonth": 1153,
+    "timeYear": 1153,
     "dailyMinutesDown": {}
   }
 ]
