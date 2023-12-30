@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 2450,
-    "timeDay": 1880,
-    "timeWeek": 2555,
-    "timeMonth": 2450,
-    "timeYear": 2450,
+    "time": 2421,
+    "timeDay": 1519,
+    "timeWeek": 2371,
+    "timeMonth": 2421,
+    "timeYear": 2421,
     "dailyMinutesDown": {
       "2023-12-12": 22
     }
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/explorer.stakr.space.ico",
     "slug": "mainnet-explorer",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 587,
-    "timeDay": 601,
-    "timeWeek": 474,
-    "timeMonth": 587,
-    "timeYear": 587,
-    "dailyMinutesDown": {
-      "2023-12-29": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 580,
+    "timeDay": 345,
+    "timeWeek": 455,
+    "timeMonth": 580,
+    "timeYear": 580,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Testnet Explorer",
@@ -45,18 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/testnet.explorer.stakr.space.ico",
     "slug": "testnet-explorer",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1091,
-    "timeDay": 465,
-    "timeWeek": 621,
-    "timeMonth": 1091,
-    "timeYear": 1091,
-    "dailyMinutesDown": {
-      "2023-12-29": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1071,
+    "timeDay": 484,
+    "timeWeek": 608,
+    "timeMonth": 1071,
+    "timeYear": 1071,
+    "dailyMinutesDown": {}
   }
 ]
