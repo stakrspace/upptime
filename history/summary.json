@@ -24,19 +24,19 @@
     "url": "http://explorer.stakr.space",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.stakr.space.ico",
     "slug": "mainnet-explorer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 1058,
-    "timeWeek": 518,
-    "timeMonth": 593,
-    "timeYear": 593,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 586,
+    "timeDay": 692,
+    "timeWeek": 497,
+    "timeMonth": 586,
+    "timeYear": 586,
     "dailyMinutesDown": {
-      "2023-12-31": 1
+      "2023-12-31": 19
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "http://testnet.explorer.stakr.space",
     "icon": "https://icons.duckduckgo.com/ip3/testnet.explorer.stakr.space.ico",
     "slug": "testnet-explorer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1055,
-    "timeDay": 533,
-    "timeWeek": 520,
-    "timeMonth": 1055,
-    "timeYear": 1055,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 1035,
+    "timeDay": 433,
+    "timeWeek": 499,
+    "timeMonth": 1035,
+    "timeYear": 1035,
     "dailyMinutesDown": {
-      "2023-12-31": 0
+      "2023-12-31": 18
     }
   }
 ]
