@@ -9,6 +9,8 @@ sites:
     url: http://explorer.stakr.space
   - name: Testnet Explorer
     url: http://testnet.explorer.stakr.space
+  - name: Testnet Explorer
+    url: http://networks.stakr.space
 
 
 status-website:
