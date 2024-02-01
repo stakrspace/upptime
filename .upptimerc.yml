@@ -9,7 +9,7 @@ sites:
     url: http://explorer.stakr.space
   - name: Testnet Explorer
     url: http://testnet.explorer.stakr.space
-  - name: Testnet Explorer
+  - name: Networks Information
     url: http://networks.stakr.space
 
 
