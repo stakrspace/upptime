@@ -25,9 +25,9 @@
     "url": "http://explorer.stakr.space",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.stakr.space.ico",
     "slug": "mainnet-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "93.87%",
+    "uptimeDay": "93.83%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.88%",
@@ -37,7 +37,7 @@
     "timeMonth": 728,
     "timeYear": 698,
     "dailyMinutesDown": {
-      "2024-02-13": 88,
+      "2024-02-13": 89,
       "2024-01-01": 16,
       "2023-12-31": 19
     }
@@ -47,9 +47,9 @@
     "url": "http://testnet.explorer.stakr.space",
     "icon": "https://icons.duckduckgo.com/ip3/testnet.explorer.stakr.space.ico",
     "slug": "testnet-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "93.90%",
+    "uptimeDay": "93.89%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.88%",
