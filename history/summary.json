@@ -25,7 +25,7 @@
     "url": "http://explorer.stakr.space",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.stakr.space.ico",
     "slug": "mainnet-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 678,
     "timeYear": 682,
     "dailyMinutesDown": {
+      "2024-03-03": 0,
       "2024-02-23": 657,
       "2024-02-22": 640,
       "2024-02-14": 521,
