@@ -80,19 +80,19 @@
     "url": "http://networks.stakr.space",
     "icon": "https://icons.duckduckgo.com/ip3/networks.stakr.space.ico",
     "slug": "networks-information",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 1215,
-    "timeWeek": 668,
-    "timeMonth": 598,
-    "timeYear": 561,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 562,
+    "timeDay": 1058,
+    "timeWeek": 677,
+    "timeMonth": 603,
+    "timeYear": 562,
     "dailyMinutesDown": {
-      "2024-07-30": 0
+      "2024-07-30": 16
     }
   }
 ]
