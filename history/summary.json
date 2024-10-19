@@ -4,12 +4,12 @@
     "url": "https://stakr.space",
     "icon": "https://icons.duckduckgo.com/ip3/stakr.space.ico",
     "slug": "stakr-space-site",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "74.63%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "76.26%",
     "uptimeWeek": "83.07%",
-    "uptimeMonth": "92.77%",
-    "uptimeYear": "99.31%",
+    "uptimeMonth": "92.92%",
+    "uptimeYear": "99.32%",
     "time": 2453,
     "timeDay": 2668,
     "timeWeek": 2471,
@@ -28,7 +28,7 @@
       "2024-10-10": 251,
       "2024-10-09": 314,
       "2024-10-08": 328,
-      "2024-10-07": 277
+      "2024-10-07": 215
     }
   },
   {
